@@ -16,7 +16,7 @@ cache-control: no-cache, no-store
 
 {
     "type": "list",
-    "totalCount":186,
+    "totalCount":30,
     "data": [
         {
             "type": "institution",
