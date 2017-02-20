@@ -8,7 +8,7 @@ GET https://au-api.basiq.io/institutions
 
 GET /institutions HTTP/1.1
 Accept: application/json
-Authorization: Bearer da189f7b-babd-43cf-bcf8-9a8f19110e91
+Authorization: Bearer ZGExODlmN2ItYmFiZC00M2NmLWJjZjgtOWE4ZjE5MTEwZTkxOmU0MzE3ODU3LWNmOGYtNDNhZS04YzU1LWIwZTkyOWNhOTMzMA==
 
 HTTP/1.1 200 OK
 Content-type: application/json
